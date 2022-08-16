@@ -55,4 +55,4 @@ My motive in life is to contribute, giving back to the society. Just want to sol
 
 ## My Github Stats
 
-[![Ashish Pandey's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeph7)](https://github.com/zeph7/github-readme-stats)
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=zeph7&show_icons=true&theme=gotham" alt="zeph7" />
