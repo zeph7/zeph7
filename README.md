@@ -9,14 +9,15 @@
 
 If you are reading this, know that I'm a zealeous developer. Really fond of design actually! I see patterns and colors all around us in this alluring world of ours. Similar to that beauty, I love to make the interfaces aesthetic, full of patterns and colors! Logics do excites me well, but I'm a little biased towards design. 
 
-My motive in life is to contribute, giving back to the society. Just want to solve problems, maybe alone or aligned with any organisation. Currently I am working in an Edtech company named Smartkeeda as a Senior Android Developer. Also does some Freelancing work on the side. If you wound want to communicate with me, mail me on ashishpandey.professional@gmail.com.
+My motive in life is to contribute, giving back to the society. Just want to solve problems, maybe alone or aligned with any organisation. Currently I am working in an Edtech company named Qudoo as a Lead Android Developer. Also does some Freelancing work on the side. If you wound want to communicate with me, find your way below!
 
-## Where else to find me?
+## Where to find me?
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeph7/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishpandey.professional@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-07C160?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ashishpandey.professional)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_zeph7)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ashishpandey.professional)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_zeph7)
 
 ## Worked on Operating Systems
 
