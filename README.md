@@ -7,9 +7,9 @@
 
 ### Hi there! 
 
-If you are reading this, know that I'm a zealeous developer. Really fond of design actually! I see patterns and colors all around us in this alluring world of ours. Similar to that beauty, I love to make the interfaces aesthetic, full of patterns and colors! Logics do excites me well, but I'm a little biased towards design. 
+I am a Software Engineer developing solutions via code. Really fond of design actually! I see patterns and colors all around us in this alluring world of ours. Similar to that beauty, I love to make the interfaces aesthetic, full of patterns and colors! Logics do excites me well, but I'm a little biased towards design. 
 
-My motive in life is to contribute, giving back to the society. Just want to solve problems, maybe alone or aligned with any organisation. Currently I am working in a company named Beazy as a Lead Software Engineer. Also does some Freelancing work on the side. If you would want to communicate with me, find your way below!
+My motive in life is to contribute, giving back to the society. Just want to solve problems. Currently I am working with Moneyview as a Software Engineer 2. If you would want to communicate with me, find your way below!
 
 ## Where to find me?
 
